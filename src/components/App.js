@@ -1,10 +1,10 @@
-import Title from "./Title";
-import Main from "./Main";
-import { Page, Form, Bar } from "./styledComponents";
+import Title from './Title'
+import Main from './Main'
+import { Page, Form, Bar } from './styledComponents'
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Page>
         <Bar />
         <Form>
@@ -13,6 +13,6 @@ function App() {
         </Form>
       </Page>
     </div>
-  );
+  )
 }
-export default App;
+export default App
