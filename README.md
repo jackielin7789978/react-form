@@ -1,3 +1,6 @@
+## React 表單
+
+這是 Lidemy 程師導師計畫的作業，練習用 React 做一個帶有驗證功能的簡易表單。
 [Demo](https://jackielin7789978.github.io/react-form/)
 
 ---
